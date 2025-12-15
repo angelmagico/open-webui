@@ -1503,7 +1503,7 @@
 	"Sign in to {{WEBUI_NAME}} with LDAP": "Iniciar Sesión en GranadaAI con LDAP",
 	"Sign Out": "Cerrar Sesión",
 	"Sign up": "Crear una Cuenta",
-	"Sign up to {{WEBUI_NAME}}": "Crear una Cuenta en GranadaAI,
+	"Sign up to {{WEBUI_NAME}}": "Crear una Cuenta en GranadaAI",
 	"Significantly improves accuracy by using an LLM to enhance tables, forms, inline math, and layout detection. Will increase latency. Defaults to False.": "Mejora significativamente la precisión al usar un LLM para optimizar tablas, formularios, cálculos en línea y la detección de diseño. Aumentará la latencia. El valor predeterminado es Falso.",
 	"Signing in to {{WEBUI_NAME}}": "Iniciando Sesión en GranadaAI",
 	"Sink List": "Plegar Lista",
