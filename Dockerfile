@@ -38,6 +38,7 @@ COPY package.json package-lock.json ./
 RUN npm ci --force
 
 COPY . .
+ARG BUILD_HASH
 ENV APP_BUILD_HASH=${BUILD_HASH}
 RUN npm run build
 
